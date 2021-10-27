@@ -1,5 +1,5 @@
 import re
-
+#The purpose of this program is to check wheather an input password is valid
 
 regulars_list = [r"[a-z]",
                  r"[A-Z]",
