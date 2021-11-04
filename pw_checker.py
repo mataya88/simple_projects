@@ -46,3 +46,4 @@ while passed_conditions_int < 5:
         print(f"{5 - passed_conditions_int} conditions were not met.")
     else:
         print("YOUR PASSWORD IS 100% VALID!!!!")
+print('hello')
