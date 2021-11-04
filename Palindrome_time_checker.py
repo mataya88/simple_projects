@@ -1,5 +1,6 @@
 """
-Alongside determining whather an input is palindrome or not, the program calcultes the time taken for the process to be completed
+Alongside determining whather an input is palindrome or not, 
+the program calcultes the time taken for the process to be completed
 """
 from time import perf_counter
 input_string = input(
